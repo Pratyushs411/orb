@@ -1,0 +1,19 @@
+* {
+    background: black;
+    overflow: hidden;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0;
+    font-family: "Sofia", sans-serif;;
+}
+canvas {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-left: -50vmin;
+    width: 100vmin;
+    height: 100vmin;
+}
